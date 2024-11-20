@@ -1,3 +1,3 @@
+Sobre branches:
 Criar um branch no GitHub permite trabalhar em uma cópia separada do repositório, sem afetar a ramificação principal, geralmente chamada de main. Esse processo é útil para desenvolver novas funcionalidades ou corrigir bugs sem interferir na versão estável do projeto. Ao criar um branch, você faz uma cópia do estado atual do main. Alterações feitas nesse branch não impactam o main até que sejam mescladas (merge).
-
 Se mudanças forem feitas no main enquanto você trabalha no seu branch, você poderá atualizar sua cópia com essas alterações, garantindo que seu trabalho esteja alinhado com as atualizações mais recentes. Essa abordagem colabora para um fluxo de trabalho organizado e facilita o trabalho em equipe. Para criar um branch, use o comando git branch nome_do_branch no terminal ou utilize a interface gráfica do GitHub.
